@@ -1,0 +1,19 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+body{
+    background: rgb(253, 192, 78);
+}
+
+.card-header{
+    background-color: orangered !important;
+    text-align: center !important;
+   
+}
+
